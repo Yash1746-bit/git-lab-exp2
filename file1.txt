@@ -1,1 +1,3 @@
 My first Git lab
+Today, it is my first lab
+Learning git commands
