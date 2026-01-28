@@ -1,3 +1,4 @@
 My first Git lab
 Today, it is my first lab
 Learning git commands
+Today, we learned to connect  github with local repository
